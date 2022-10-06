@@ -1,4 +1,1 @@
-This is our Starterhacks 2020 project at the university of Waterloo, Canada.
-
-More info:
-https://devpost.com/software/starterhacks2020-6ek52v
+SE390 for ydani, a24abrah, k299zhan, y397hu
